@@ -1,4 +1,8 @@
 name: guitar_strum_patterns
+version: 0.1.0
+description:
+  Display all possible guitar 8th note strumming patterns.
+author: rkj@google.com
 environment:
     sdk: '>=1.20.0 <2.0.0'
 dependencies:
